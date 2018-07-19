@@ -23,7 +23,7 @@ class MainMenu:
             print("Wrong input, try again")
             self.welcome_message()
         except IndexError:
-            print("You have to input exacly 3 numbers, try again")
+            print("You have to input exactly 3 numbers, try again")
             self.welcome_message()
 
 
