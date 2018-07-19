@@ -2,7 +2,6 @@ import random
 
 
 class Game:
-
     def __init__(self):
         self.score = [0, 0]
         self.options = ["Rock", "Paper", "Scissors"]
